@@ -10,6 +10,7 @@ RU version\
 --Im just trying to get experience--\
 \
 SHORT-GUIDE: {\
+  run pyconn_1_1_7.py or pyconn_1_1_7.exe
   !!! SERVER MAY NOT WORK WHEN U TRY TO LAUNCH APP !!!\
   SIGN UP, then SIGN IN;\
   Customize ur profile;\
